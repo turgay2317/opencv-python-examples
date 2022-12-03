@@ -13,3 +13,4 @@ You can view examples about computer vision and image processing with results
 
 # Advanced Operations (Detection and Algorithms)
 * Example 9 - Hand Detection and Finger Counting
+* Example 10 - Pose Esimtation (Hug Yourself app)

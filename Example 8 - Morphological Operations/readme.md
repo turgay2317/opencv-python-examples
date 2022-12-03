@@ -1,0 +1,10 @@
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(0).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(1).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(2).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(3).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(4).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(5).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(6).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(7).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(8).png?raw=true"/>
+<img src="https://github.com/turgay2317/opencv-python-examples/blob/main/Example%208%20-%20Morphological%20Operations/Results/Figure%202022-12-03%20183104%20(9).png?raw=true"/>
